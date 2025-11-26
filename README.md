@@ -1,3 +1,2 @@
-# CROP_DISEASE_PREDICTION
-"A deep learning-powered web application designed to detect crop diseases from leaf images. Leveraging TensorFlow for model prediction and OpenCV for image preprocessing, the app provides users with instant, accurate diagnoses. Built with Streamlit, it offers a simple interface where users can upload leaf photos and receive real-time disease detection results, helping farmers and agricultural experts take timely actions to minimize crop losses."
-
+# Mitheel_Ranpara_CSE2_Crop_Disease_Preidiction
+A deep learning-based web app that uses TensorFlow and OpenCV to detect crop diseases from leaf images.  Built with Streamlit, it allows users to upload photos and get instant predictions to support early diagnosis  and reduce crop loss.
